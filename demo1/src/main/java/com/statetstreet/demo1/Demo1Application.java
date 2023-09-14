@@ -11,7 +11,7 @@ public class Demo1Application {
 
 	@GetMapping("/message")
 	public String message() {
-		return "Congrats in Azure";
+		return "Congrats in Azure!!!";
 		
 	}
 	
